@@ -30,7 +30,6 @@ function VideoUploadPage() {
                             <Icon type="plus" style={{ fontSize: '3rem'}} />
                         </div>
                     )}
-
                     </Dropzone>
                     {/* Thumbnail */}
                     <div>
